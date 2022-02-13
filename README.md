@@ -22,3 +22,4 @@ Male are the main user for bike-share service. Most users use the service during
 There two additional visualizations are suggested for future analysis:
 1. average trip duration by different age,then we provide different  discount bundle for different age.
 2. add weather information to find correlation between the weather and the rides
+c
