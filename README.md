@@ -1,7 +1,7 @@
 # bikesharing
 ## Purpose of the Analysis:
 Use the Tablelu to figure how CitiBile bike-share bussiness actually workis in New York City.I will create a propsal on how it might work in Des Moines.
-
+[link to dashboard](https://public.tableau.com/app/profile/yicong.luo/viz/Bike_16446964500340/StoryofTripsbyWeekdayforEachHour?publish=yes)
 ## Results
 ![checkout_time_for_userorgender](pic/checkout_time_for_userorgender.png)
 This graph show the most people use the bike for 5 minutes trip, and most of bike-share users are male, which is almost 3 times female.
